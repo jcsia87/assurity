@@ -22,7 +22,7 @@ a copy of the test_assurity.py file (git clone https://github.com/jcsia87/assuri
 
 ## Running the tests
 
-Simple run the command below in your terminal
+Simply run the command below in your terminal
 
 ```
 py.test test_assurity.py
