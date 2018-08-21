@@ -15,9 +15,9 @@ A method get_categories() is being called by each of the test cases to retrieve 
 ### Prerequisites
 
 Python 2.7
-requests (python library - command: pip install requests)
-json (python library - command: pip install json)
-pytest (python library - command: pip install pytest)
+requests (python library - command: pip install requests)  
+json (python library - command: pip install json)  
+pytest (python library - command: pip install pytest)  
 
 
 ## Running the tests
