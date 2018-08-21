@@ -18,7 +18,7 @@ Python 2.7
 requests (python library - command: pip install requests)  
 json (python library - command: pip install json)  
 pytest (python library - command: pip install pytest)  
-
+a copy of the test_assurity.py file (git clone https://github.com/jcsia87/assurity.git)
 
 ## Running the tests
 
@@ -46,6 +46,7 @@ test_assurity.py ...                                                            
 
 ================================================================== 3 passed in 7.87 seconds ==================================================================
 ```
+
 ## Built With
 
 * [Python](https://www.python.org/) - The programming language used
