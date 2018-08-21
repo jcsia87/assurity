@@ -1,6 +1,6 @@
 # Assurity Test
 
-This is my attempt to solve the Assurity coding challenge to test the api response of one of its endpoints. This uses the bare minimum tools to get the test up and running. It is very readable 
+This is my attempt to solve the Assurity coding challenge to test the api response of one of its endpoints. This uses a bare minimum set of tools to get the test up and running. It is very readable and easy to modify.
 
 ## Getting Started
 
